@@ -1,0 +1,21 @@
+# Keith Ahern - OKR
+
+### Period: M12/W1+W2-2020
+
+#### Objectives and Key Results
+
+Develop - How I am contributing to the development of racing algorithms
+
+- [ ] Get Ubuntu set up as a dual-boot operating system on my computer
+- [ ] Get the ROS and Catkin workspaces set up on Ubuntu
+- [ ] Get the F1Tenth Simulator running on Ubuntu
+
+Learn - What I am learning from the theory, and used frameworks
+
+- [ ] The basics of ROS and how to operate it
+- [ ] How to use the simulator's various manual controls
+- [ ] Finish the (F1Tenth) Lab 1
+
+Research - What I am researching that is currently not well understood
+
+- [ ] How to install custom ROS packages so that catkin workspaces can be made
